@@ -1,0 +1,14 @@
+rows: 2
+columns: 2
+columns_names: Index(['name', 'description'], dtype='object')
+missing_values: name           0
+description    0
+dtype: int64
+unique_values: name           2
+description    2
+dtype: int64
+data_types: name           object
+description    object
+dtype: object
+duplicate_rows: 0
+dq_score: 100.0

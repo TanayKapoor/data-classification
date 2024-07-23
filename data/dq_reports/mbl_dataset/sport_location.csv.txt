@@ -1,0 +1,26 @@
+rows: 62
+columns: 6
+columns_names: Index(['id', 'name', 'city', 'seating_capacity', 'levels', 'sections'], dtype='object')
+missing_values: id                  0
+name                0
+city                0
+seating_capacity    0
+levels              0
+sections            0
+dtype: int64
+unique_values: id                  62
+name                61
+city                60
+seating_capacity    61
+levels               2
+sections            32
+dtype: int64
+data_types: id                   int64
+name                object
+city                object
+seating_capacity     int64
+levels               int64
+sections             int64
+dtype: object
+duplicate_rows: 0
+dq_score: 100.0

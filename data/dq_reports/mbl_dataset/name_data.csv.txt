@@ -1,0 +1,14 @@
+rows: 5360
+columns: 2
+columns_names: Index(['namw_type', 'name'], dtype='object')
+missing_values: namw_type    0
+name         0
+dtype: int64
+unique_values: namw_type       3
+name         4664
+dtype: int64
+data_types: namw_type    object
+name         object
+dtype: object
+duplicate_rows: 0
+dq_score: 100.0

@@ -1,0 +1,34 @@
+rows: 32
+columns: 8
+columns_names: Index(['stadium', 'seating_capacity', 'location', 'surface', 'roof', 'team',
+       'opened', 'sport_location_id'],
+      dtype='object')
+missing_values: stadium              0
+seating_capacity     0
+location             0
+surface              0
+roof                 0
+team                 0
+opened               0
+sport_location_id    0
+dtype: int64
+unique_values: stadium              31
+seating_capacity     31
+location             31
+surface              19
+roof                  3
+team                 32
+opened               25
+sport_location_id    31
+dtype: int64
+data_types: stadium              object
+seating_capacity      int64
+location             object
+surface              object
+roof                 object
+team                 object
+opened                int64
+sport_location_id     int64
+dtype: object
+duplicate_rows: 0
+dq_score: 100.0

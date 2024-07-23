@@ -1,0 +1,17 @@
+rows: 6
+columns: 3
+columns_names: Index(['name', 'description', 'relative_quality'], dtype='object')
+missing_values: name                0
+description         0
+relative_quality    0
+dtype: int64
+unique_values: name                6
+description         6
+relative_quality    6
+dtype: int64
+data_types: name                object
+description         object
+relative_quality     int64
+dtype: object
+duplicate_rows: 0
+dq_score: 100.0

@@ -1,0 +1,21 @@
+INFO:root:Data import and DQ report generation completed successfully
+INFO:root:Data import and DQ report generation completed successfully
+ERROR:root:Error occured while generating dq score: 'missing_values'
+INFO:root:Data import and DQ report generation completed successfully
+INFO:root:Data import and DQ report generation completed successfully
+ERROR:root:Error occured while moving negative columns: '<' not supported between instances of 'str' and 'int'
+ERROR:root:Error occured while moving negative columns: '<' not supported between instances of 'str' and 'int'
+ERROR:root:File not found at data/raw_data.csv
+ERROR:root:File not found at data/mlb_data.csv
+ERROR:root:File not found at data/mlb_data.csv
+ERROR:root:File not found at data/mlb_data.csv
+ERROR:root:File not found at data/mlb_data.csv
+ERROR:root:Error occured while exporting cleaned data: [Errno 13] Permission denied: 'data/mlb_data.csv'
+ERROR:root:File not found at data/raw_data.csv
+ERROR:root:Error occured while exporting cleaned data: Cannot save file into a non-existent directory: 'data\processed\mbl_dataset'
+INFO:root:Data import process completed successfully
+INFO:root:Data import process completed successfully
+INFO:root:Data import process completed successfully
+INFO:root:Data import process completed successfully
+INFO:root:Data import process completed successfully
+INFO:root:Data import process completed successfully

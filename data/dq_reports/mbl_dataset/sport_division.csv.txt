@@ -1,0 +1,25 @@
+rows: 14
+columns: 5
+columns_names: Index(['sport_type', 'sport_league_short_name', 'short_name', 'long_name',
+       'description'],
+      dtype='object')
+missing_values: sport_type                 0
+sport_league_short_name    0
+short_name                 0
+long_name                  0
+description                0
+dtype: int64
+unique_values: sport_type                  2
+sport_league_short_name     2
+short_name                 14
+long_name                  14
+description                14
+dtype: int64
+data_types: sport_type                 object
+sport_league_short_name    object
+short_name                 object
+long_name                  object
+description                object
+dtype: object
+duplicate_rows: 0
+dq_score: 100.0

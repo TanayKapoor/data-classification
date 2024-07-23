@@ -1,0 +1,50 @@
+rows: 2381
+columns: 13
+columns_names: Index(['position', 'player_number', 'name', 'status', 'stat1', 'stat1_val',
+       'stat2', 'stat2_val', 'stat3', 'stat3_val', 'stat4', 'stat4_val',
+       'team'],
+      dtype='object')
+missing_values: position         0
+player_number    0
+name             0
+status           0
+stat1            0
+stat1_val        0
+stat2            0
+stat2_val        0
+stat3            0
+stat3_val        0
+stat4            0
+stat4_val        0
+team             0
+dtype: int64
+unique_values: position           21
+player_number      99
+name             2357
+status              5
+stat1               6
+stat1_val         162
+stat2               5
+stat2_val         355
+stat3               5
+stat3_val         253
+stat4               5
+stat4_val         103
+team               32
+dtype: int64
+data_types: position          object
+player_number    float64
+name              object
+status            object
+stat1             object
+stat1_val         object
+stat2             object
+stat2_val         object
+stat3             object
+stat3_val         object
+stat4             object
+stat4_val         object
+team              object
+dtype: object
+duplicate_rows: 0
+dq_score: 100.0
